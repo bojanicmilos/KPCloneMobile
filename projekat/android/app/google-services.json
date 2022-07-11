@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "892239175906",
+    "firebase_url": "https://kupujemprodajem-2dd0e-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "kupujemprodajem-2dd0e",
+    "storage_bucket": "kupujemprodajem-2dd0e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:892239175906:android:e47d5cf76fa218aabbfebb",
+        "android_client_info": {
+          "package_name": "com.projekat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "892239175906-9vjgrbflu24v5h75957iteekscdimk1m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCA1p4xLzV9cUzHgYQ7qSWDX7SClKnNzw4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "892239175906-9vjgrbflu24v5h75957iteekscdimk1m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
